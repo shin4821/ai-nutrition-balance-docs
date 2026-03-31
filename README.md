@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <th>항목</th>
+    <th width="80">항목</th>
     <th>내용</th>
   </tr>
   <tr>
